@@ -1,0 +1,12 @@
+class student
+def--init--(self,name args);
+self--initname=name
+  self-age=age
+  def-age=age
+  def read (self):
+print(self name)
+print(self age)
+s1=student("kprit 21)
+  s2=student("acb"31)
+  s1=read()
+  s2.read()
